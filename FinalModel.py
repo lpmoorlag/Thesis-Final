@@ -19,7 +19,7 @@ full_output = True
 plot_network = True
 
 # Read data to dictionary
-file_name = 'GreenLightModelCompressed'
+file_name = 'FinalModelCompressed'
 
 #-------------------------------------------------------- Set Parameters ------------------------------------------
 Years = 1
